@@ -1,0 +1,13 @@
+name: functiontransfer
+title: functiontransfer
+username:
+account: jwildish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 962017
+bundleId: 2125995
+url: https://jwildish.shinyapps.io/functiontransfer/
+when: 1559535322.48745
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Carbon database regressions.xlsx
